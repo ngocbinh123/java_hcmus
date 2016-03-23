@@ -26,6 +26,8 @@ public class staffPositionFrm extends JFrame {
 	private JPanel contentPane;
 	private JTextField txtName;
 	private Connection connection;
+	private JTextField txtSearchId;
+	private JTextField txtSearchName;
 	/**
 	 * Launch the application.
 	 */
@@ -80,7 +82,7 @@ public class staffPositionFrm extends JFrame {
 		contentPane.add(list);
 		
 		// add positionList into model of jlist 
-		ArrayList<StaffTypeModel> poslist = getStaffPositionList();
+		ArrayList<StaffTypeModel> poslist = getStaffTypeList();
 		for (StaffTypeModel staffPositionModel : poslist) {
 			if(!staffPositionModel.getName().trim().isEmpty()){
 				String elem = staffPositionModel.getId() + " - "+staffPositionModel.getName();
@@ -196,13 +198,109 @@ public class staffPositionFrm extends JFrame {
 		btnDel.setBounds(564, 46, 117, 29);
 		contentPane.add(btnDel);
 		
+		JPanel panel = new JPanel();
+		panel.setBounds(292, 109, 389, 168);
+		contentPane.add(panel);
+		panel.setLayout(null);
+		
+		JLabel lblId_1 = new JLabel("ID: ");
+		lblId_1.setBounds(6, 11, 27, 16);
+		panel.add(lblId_1);
+		
+		txtSearchId = new JTextField();
+		txtSearchId.setBounds(30, 5, 65, 28);
+		txtSearchId.setColumns(10);
+		panel.add(txtSearchId);
+		
+		JLabel label = new JLabel("Name:");
+		label.setBounds(114, 11, 45, 16);
+		panel.add(label);
+		
+		txtSearchName = new JTextField();
+		txtSearchName.setColumns(10);
+		txtSearchName.setBounds(162, 5, 222, 28);
+		panel.add(txtSearchName);
+		
+		JButton btnSearch = new JButton("Search");
+		btnSearch.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String txtId = txtSearchId.getText().trim();
+				String name = txtSearchName.getText().trim();
+				
+				System.out.println(txtId);
+				int id = Integer.parseInt(txtId);
+				StaffTypeModel staffType = new StaffTypeModel(id, name);
+				ArrayList<StaffTypeModel> poslist = null;
+				try {
+					poslist = searchStaffType(staffType);
+				} catch (Exception e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+				if(poslist != null){
+					model.removeAllElements();
+					for (StaffTypeModel staffPositionModel : poslist) {
+						if(!staffPositionModel.getName().trim().isEmpty()){
+							String elem = staffPositionModel.getId() + " - "+staffPositionModel.getName();
+							model.addElement(elem);
+						}
+					}
+				}
+			}
+		});
+		btnSearch.setBounds(6, 45, 117, 29);
+		panel.add(btnSearch);
+		
+		JButton btnSearchById = new JButton("Search By Id");
+		btnSearchById.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String txtId = txtSearchId.getText().trim();
+	
+				System.out.println(txtId);
+				int id = Integer.parseInt(txtId);
+				StaffTypeModel staffType = null;
+				try {
+					staffType = getStaffTypeById(id);
+				} catch (Exception e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+					
+				if(staffType != null){
+					model.removeAllElements();
+					String elem = staffType.getId() + " - "+staffType.getName();
+					model.addElement(elem);
+				}
+			}
+		});
+		btnSearchById.setBounds(267, 45, 117, 29);
+		panel.add(btnSearchById);
+		
 	}
+	
+	/**
+	 * check the text is numeric 
+	 * return boolean
+	 * */
+	public Boolean isNumeric(String s){
+		return s.matches("[-+]?\\d*\\.?\\d+");
+	}
+	
 	/**
 	 * get all staff position in the table 
 	 * return ArrayList<StaffTypeModel>
 	 * */
-	public ArrayList<StaffTypeModel> getStaffPositionList() throws Exception{
+	public ArrayList<StaffTypeModel> getStaffTypeList() throws Exception{
 		ArrayList<StaffTypeModel> postList = StaffTypeModel.getInstancce().getAll();
+		return postList;
+	}
+	
+	/**
+	 * get staff position by param in the table 
+	 * return ArrayList<StaffTypeModel>
+	 * */
+	public ArrayList<StaffTypeModel> searchStaffType(StaffTypeModel staffType) throws Exception{
+		ArrayList<StaffTypeModel> postList = StaffTypeModel.getInstancce().search(staffType);
 		return postList;
 	}
 	
@@ -236,5 +334,13 @@ public class staffPositionFrm extends JFrame {
 	 * */
 	public StaffTypeModel getStaffTypeByName(String name) throws Exception{
 		return StaffTypeModel.getInstancce().getByName(name);
+	}
+	
+	/**
+	 * get staff type by id
+	 * return StaffTypeModel
+	 * */
+	public StaffTypeModel getStaffTypeById(int id) throws Exception{
+		return StaffTypeModel.getInstancce().getById(id);
 	}
 }

@@ -1657,3 +1657,146 @@
 2016-03-23 16:30:47,492 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
 2016-03-23 16:30:47,494 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-23 16:30:47,495 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 18:51:36,117 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-03-23 19:12:23,102 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,105 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/main/resources
+2016-03-23 19:12:23,109 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,109 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/test/resources
+2016-03-23 19:12:23,357 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,358 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:12:23,360 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,360 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:12:23,457 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,458 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/main/resources
+2016-03-23 19:12:23,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/test/resources
+2016-03-23 19:12:23,599 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,599 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/main/resources
+2016-03-23 19:12:23,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:12:23,602 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/test/resources
+2016-03-23 19:15:09,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:15:09,222 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:15:09,224 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:15:09,224 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:16:12,552 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:16:12,553 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:16:12,555 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:16:12,555 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:16:16,828 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:16:16,828 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:16:16,830 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:16:16,830 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:23:54,225 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:23:54,225 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:23:54,229 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:23:54,229 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:25:27,640 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:25:27,640 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:25:27,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:25:27,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:26:54,419 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:26:54,420 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:26:54,425 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:26:54,425 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:29:15,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:29:15,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:29:15,762 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:29:15,763 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:29:39,490 [Worker-14] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-03-23 19:29:45,312 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:29:45,312 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:29:45,314 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:29:45,316 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:29:49,524 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:29:49,525 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:29:49,528 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:29:49,528 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:31:08,603 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:31:08,604 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:31:08,615 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:31:08,615 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:32:00,072 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:00,072 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:32:00,073 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:00,073 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:32:17,783 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:17,783 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:32:17,786 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:17,787 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:32:25,416 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:25,416 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:32:25,417 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:25,418 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:32:28,864 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:28,864 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:32:28,865 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:28,865 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:32:37,943 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:37,944 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:32:37,946 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:32:37,946 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:51:20,424 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:51:20,425 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:51:20,427 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:51:20,427 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:58:03,294 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:58:03,294 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:58:03,296 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:58:03,297 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:58:09,895 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:58:09,896 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:58:09,898 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:58:09,898 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 19:58:28,437 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:58:28,437 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 19:58:28,438 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 19:58:28,439 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:01:08,657 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:01:08,658 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:01:08,664 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:01:08,665 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:05:22,327 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:05:22,327 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:05:22,329 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:05:22,330 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:06:22,109 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:06:22,109 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:06:22,114 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:06:22,115 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:07:27,446 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:07:27,446 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:07:27,449 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:07:27,450 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:07:46,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:07:46,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:07:46,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:07:46,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:08:44,835 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:08:44,836 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:08:44,837 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:08:44,838 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:09:24,431 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:09:24,431 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:09:24,433 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:09:24,433 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:09:33,103 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:09:33,103 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:09:33,105 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:09:33,105 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:13:10,642 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:13:10,643 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:13:10,644 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:13:10,644 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:20:59,593 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:20:59,596 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:20:59,599 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:20:59,599 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:21:00,052 [Worker-13] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-03-23 20:22:30,697 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:22:30,697 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:22:30,699 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:22:30,700 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-03-23 20:25:25,215 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:25:25,216 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-03-23 20:25:25,220 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-23 20:25:25,221 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources

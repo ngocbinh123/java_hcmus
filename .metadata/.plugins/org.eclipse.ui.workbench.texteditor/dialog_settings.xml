@@ -13,16 +13,16 @@
 		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="isNum" key="selection"/>
 		<list key="findhistory">
+			<item value="isNum"/>
+			<item value="Default"/>
+			<item value="model"/>
+			<item value="search"/>
 			<item value="name"/>
 			<item value="txtName"/>
 			<item value="getStaffPositionList"/>
 			<item value="btnA"/>
-			<item value="Add"/>
-			<item value="ID"/>
-			<item value="execQuery"/>
-			<item value="staffposition"/>
 		</list>
 		<list key="replacehistory">
 		</list>

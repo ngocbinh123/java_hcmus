@@ -59,6 +59,37 @@ public class StaffTypeModel {
 		return null;
 	}
 	
+	public StaffTypeModel getById(int id) throws Exception{
+		
+		String sql = String.format("SELECT * FROM %s WHERE id='%d'", mTableName, id);
+		System.out.println(sql);
+		ResultSet rs = PostgreSQLJDBC.getInstancce().executeQuery(sql);
+	
+		//Handle returned data 
+		while(rs.next()){
+			String name = rs.getString("name"); // name column
+			StaffTypeModel posModel = new StaffTypeModel(id,name);
+			return posModel;
+		}
+		return null;
+	}
+	
+	public ArrayList<StaffTypeModel>  search(StaffTypeModel staffType) throws Exception{
+		ArrayList<StaffTypeModel> res = new ArrayList<StaffTypeModel>();
+		String sql = String.format("SELECT * FROM %s WHERE id=%d OR name='%s'", mTableName, staffType.getId(), staffType.getName());
+		System.out.println(sql);
+		ResultSet rs = PostgreSQLJDBC.getInstancce().executeQuery(sql);
+	
+		//Handle returned data 
+		while(rs.next()){
+			int id = rs.getInt("id"); // id column
+			String name = rs.getString("name"); // name column
+			StaffTypeModel posModel = new StaffTypeModel(id,name);
+			res.add(posModel);
+		}
+		return res;
+	}
+	
 	public Boolean update(StaffTypeModel staffType){  
 		String sql = String.format("UPDATE %s SET name='%s' WHERE id=%d", mTableName,staffType.name, staffType.id);
 		System.out.println(sql);
