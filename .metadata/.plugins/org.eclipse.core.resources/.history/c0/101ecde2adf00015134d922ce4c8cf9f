@@ -1,0 +1,48 @@
+package com.maven.weekThree;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+public class StaffPositionModel {
+	private int id; 
+	private String name;
+	
+	private final static String mTableName = "staffPosition";
+	private static StaffPositionModel mPosModel;
+	
+	public ArrayList<StaffPositionModel> getStaffPosition() throws Exception{
+		ArrayList<StaffPositionModel> res = new ArrayList<StaffPositionModel>();
+		String sql ="";
+		ResultSet rs = PostgreSQLJDBC.getInstancce().execQuery(sql);
+		
+		//Handle returned data 
+		while(rs.next()){
+			int id = rs.getInt(0)
+			String name = rs.getString(1);
+		}
+		return res;
+	}
+	/**
+	 * @param id
+	 * @param name
+	 */
+	public StaffPositionModel(int id, String name) {
+		super();
+		this.id = id;
+		this.name = name;
+	}
+	/**
+	 * 
+	 */
+	public StaffPositionModel() {
+		super();
+	}
+	
+	public static StaffPositionModel getInstancce(){
+		if(mPosModel == null){
+			mPosModel = new StaffPositionModel();
+		}
+		return mPosModel;
+	}
+}

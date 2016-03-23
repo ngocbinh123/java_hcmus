@@ -1,0 +1,7 @@
+1458661990615	Delete element
+1458705728397	Rename type 'StaffPosition'
+1458706668324	Rename method 'getStaffPosition'
+1458708082196	Rename type 'StaffPositionModel'
+1458716047441	Rename method 'runExecuteUpdate'
+1458717025997	Rename field 'txtPositionName'
+1458718511461	Rename method 'updateInfo'

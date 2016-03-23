@@ -1,0 +1,47 @@
+package com.maven.weekThree;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.util.Properties;
+
+import org.postgresql.Driver;
+
+public class PostgreSQLJDBC {
+	  public static void main(String args[]) {
+//	      Connection c = null;
+//	      try {
+//	         Class.forName("org.postgresql.Driver");
+//	         c = DriverManager
+//	            .getConnection("jdbc:postgresql://localhost:5432/cookingmanagement_v1",
+//	            "postgres", "123456");
+//	      } catch (Exception e) {
+//	         e.printStackTrace();
+//	         System.err.println(e.getClass().getName()+": "+e.getMessage());
+//	         System.exit(0);
+//	      }
+//	      System.out.println("Opened database successfully");
+		  Driver driver = new org.postgresql.Driver();
+
+		  DriverManager.registerDriver(driver);
+
+		  String conString= "jdbc:postgresql://localhost:5432/cookingmanagement_v1";
+
+		  Properties info = new Properties();
+
+		  info.setProperty("characterEncoding", "utf8");
+
+		  info.setProperty("user", "postgres");
+
+		  info.setProperty("password", "123456");
+
+		  Connection connection = 
+
+		  DriverManager.getConnection(conString, info);
+
+		  . . .
+
+		  connection.close();
+
+		  "jdbc:postgresql://localhost:5432/BookOnline";
+	   }
+}
