@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Apr 18, 2016 10:37:27 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <joined-subclass name="pojo.Staff" extends="pojo.PojoBase" table="STAFF" lazy="false">
+        <key>
+            <column name="ID" />
+        </key>
+        <property name="image" type="java.lang.String" access="field">
+            <column name="IMAGE" />
+        </property>
+        <property name="birthday" type="java.sql.Date" access="field">
+            <column name="BIRTHDAY" />
+        </property>
+        <property name="sex" type="java.lang.Boolean" access="field">
+            <column name="SEX" />
+        </property>
+        <many-to-one name="workingStatus" class="pojo.WorkingStatus" access="field" fetch="join">
+            <column name="WORKINGSTATUS" />
+        </many-to-one>
+        <property name="startWorking" type="java.sql.Date" access="field">
+            <column name="STARTWORKING" />
+        </property>
+        <many-to-one name="staffType" class="pojo.StaffType" access="field" fetch="join">
+            <column name="STAFFTYPE" />
+        </many-to-one>
+        <property name="id_workingStatus" type="int" access="field">
+            <column name="ID_WORKINGSTATUS" />
+        </property>
+        <property name="baseSalary" type="int" access="field">
+            <column name="BASESALARY" />
+        </property>
+        <property name="note" type="java.lang.String" access="field">
+            <column name="NOTE" />
+        </property>
+    </joined-subclass>
+</hibernate-mapping>

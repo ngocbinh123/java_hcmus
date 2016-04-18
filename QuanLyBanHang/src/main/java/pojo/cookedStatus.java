@@ -1,0 +1,10 @@
+package pojo;
+
+public class cookedStatus extends PojoBase {
+
+	public cookedStatus() {
+		// TODO Auto-generated constructor stub
+		
+	}
+
+}

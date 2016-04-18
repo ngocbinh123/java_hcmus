@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Apr 18, 2016 9:47:31 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <joined-subclass name="pojo.WorkingTime" extends="pojo.PojoBase" table="WORKINGTIME" lazy="false">
+        <key>
+            <column name="ID" />
+        </key>
+        <property name="startHour" type="int">
+            <column name="STARTHOUR" />
+        </property>
+        <property name="endHour" type="int">
+            <column name="ENDHOUR" />
+        </property>
+    </joined-subclass>
+</hibernate-mapping>

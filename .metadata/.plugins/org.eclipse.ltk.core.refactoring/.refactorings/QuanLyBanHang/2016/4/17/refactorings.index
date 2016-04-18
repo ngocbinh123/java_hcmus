@@ -1,0 +1,12 @@
+1460882937390	Delete element
+1460883192319	Delete element
+1460887134968	Encapsulate field 'name'
+1460887153946	Encapsulate field 'id'
+1460888780493	Delete element
+1460888877261	Rename type 'baseDao'
+1460888891824	Rename type 'foodDAO'
+1460888919430	Rename type 'food'
+1460888932113	Rename type 'foodType'
+1460910683435	Rename local variable 'ds'
+1460911118233	Delete element
+1460911122877	Delete element

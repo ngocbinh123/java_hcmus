@@ -1,0 +1,13 @@
+package pojo;
+
+public class foodType extends PojoBase{
+
+	/**
+	 * 
+	 */
+	public foodType() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+}

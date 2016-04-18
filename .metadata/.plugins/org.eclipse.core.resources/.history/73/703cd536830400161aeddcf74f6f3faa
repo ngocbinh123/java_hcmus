@@ -1,0 +1,7 @@
+package pojo;
+
+public class food extends PojoBase{
+	private int id, 
+	private String name, 
+	
+}

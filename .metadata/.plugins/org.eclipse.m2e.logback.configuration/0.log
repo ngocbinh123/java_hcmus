@@ -1800,3 +1800,922 @@
 2016-03-23 20:25:25,216 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
 2016-03-23 20:25:25,220 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-23 20:25:25,221 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-04-17 11:25:55,262 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-04-17 11:28:47,798 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 11:28:48,060 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuanLyBanHang/src/main/java
+2016-04-17 11:28:48,062 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuanLyBanHang/src/test/java
+2016-04-17 11:28:48,089 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-04-17 11:28:48,813 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:28:48,813 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 11:28:48,816 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:28:48,816 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 11:33:18,188 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 11:33:23,181 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 11:33:23,181 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install 
+2016-04-17 11:35:11,003 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 11:35:11,003 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install 
+2016-04-17 11:35:45,660 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.pro:foodManagement:0.0.1-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/pom.xml.
+2016-04-17 11:36:58,531 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:36:58,532 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 11:36:58,534 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:36:58,534 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 11:37:06,764 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 11:37:12,566 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 11:37:12,566 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install 
+2016-04-17 11:40:27,591 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:40:27,591 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 11:40:27,593 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:40:27,593 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 11:41:17,087 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:41:17,087 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 11:41:17,088 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:41:17,088 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 11:50:55,772 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:50:55,773 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 11:50:55,774 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 11:50:55,774 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 11:58:37,251 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 11:58:43,813 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 11:58:43,813 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-04-17 11:59:39,424 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 12:00:06,230 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:00:06,231 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 12:00:06,232 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:00:06,233 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 12:00:17,706 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 12:00:22,482 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 12:00:22,482 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install 
+2016-04-17 12:02:48,099 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 12:02:52,801 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 12:02:57,845 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 12:02:57,845 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-04-17 12:03:27,211 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @107441ms
+2016-04-17 12:03:27,360 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2016-04-17 12:03:27,405 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@468496bb{/help,null,AVAILABLE}
+2016-04-17 12:03:27,421 [Start Help Server] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@4c97afa5{HTTP/1.1}{127.0.0.1:57036}
+2016-04-17 12:03:27,422 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @107653ms
+2016-04-17 12:04:24,971 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-17 12:04:24,987 [Worker-8] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:25,869 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 12:04:25,991 [Worker-8] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:26,129 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuanLyBanHang/src/main/java
+2016-04-17 12:04:26,482 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuanLyBanHang/src/test/java
+2016-04-17 12:04:26,562 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-04-17 12:04:26,866 [Worker-7] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:26,899 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:26,899 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 12:04:26,902 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:26,903 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 12:04:26,953 [Worker-7] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:26,956 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:26,957 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/main/resources
+2016-04-17 12:04:26,960 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:26,960 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/test/resources
+2016-04-17 12:04:27,399 [Worker-7] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:27,402 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:27,402 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-04-17 12:04:27,404 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:27,404 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-04-17 12:04:27,517 [Worker-7] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:27,520 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:27,521 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/main/resources
+2016-04-17 12:04:27,524 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:27,525 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/test/resources
+2016-04-17 12:04:27,844 [Worker-7] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:04:27,847 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:27,847 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/main/resources
+2016-04-17 12:04:27,850 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:04:27,850 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/test/resources
+2016-04-17 12:07:14,850 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 12:07:22,097 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 12:07:22,097 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn clean install
+2016-04-17 12:14:09,614 [Worker-5] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:14:09,619 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:14:09,619 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-04-17 12:14:09,620 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:14:09,620 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-04-17 12:14:11,782 [Worker-1] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2016-04-17 12:14:11,784 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:14:11,784 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-04-17 12:14:11,785 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:14:11,785 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-04-17 12:14:23,723 [Stop Help Server] INFO  o.e.jetty.server.ServerConnector - Stopped ServerConnector@4c97afa5{HTTP/1.1}{127.0.0.1:0}
+2016-04-17 12:14:23,741 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@468496bb{/help,null,UNAVAILABLE}
+2016-04-17 12:16:45,934 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 12:16:48,210 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 12:16:52,485 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 12:16:52,488 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-04-17 12:17:13,425 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2016-04-17 12:17:13,621 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2016-04-17 12:17:14,119 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2016-04-17 12:17:14,493 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2016-04-17 12:17:14,697 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2016-04-17 12:17:14,882 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/takari-local-repository/0.9.0/takari-local-repository-0.9.0-sources.jar
+2016-04-17 12:17:15,092 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2016-04-17 12:17:15,291 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/takari-filemanager/0.7.0/takari-filemanager-0.7.0-sources.jar
+2016-04-17 12:17:15,512 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.3/maven-core-3.3.3-sources.jar
+2016-04-17 12:17:17,496 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.3/maven-core-3.3.3-sources.jar
+2016-04-17 12:17:17,721 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
+2016-04-17 12:17:18,104 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
+2016-04-17 12:17:18,310 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.3/maven-settings-3.3.3-sources.jar
+2016-04-17 12:17:18,502 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.3/maven-settings-3.3.3-sources.jar
+2016-04-17 12:17:18,717 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.3/maven-settings-builder-3.3.3-sources.jar
+2016-04-17 12:17:18,923 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.3/maven-settings-builder-3.3.3-sources.jar
+2016-04-17 12:17:19,161 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.3/maven-builder-support-3.3.3-sources.jar
+2016-04-17 12:17:19,346 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.3/maven-builder-support-3.3.3-sources.jar
+2016-04-17 12:17:19,563 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.3/maven-repository-metadata-3.3.3-sources.jar
+2016-04-17 12:17:19,749 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.3/maven-repository-metadata-3.3.3-sources.jar
+2016-04-17 12:17:19,958 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
+2016-04-17 12:17:20,149 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
+2016-04-17 12:17:20,355 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
+2016-04-17 12:17:20,550 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
+2016-04-17 12:17:20,768 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.3/maven-model-builder-3.3.3-sources.jar
+2016-04-17 12:17:21,174 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.3/maven-model-builder-3.3.3-sources.jar
+2016-04-17 12:17:21,388 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.3/maven-aether-provider-3.3.3-sources.jar
+2016-04-17 12:17:21,581 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.3/maven-aether-provider-3.3.3-sources.jar
+2016-04-17 12:17:21,978 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:22,429 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:22,746 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:23,150 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:23,387 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2016-04-17 12:17:23,593 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2016-04-17 12:17:23,859 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2016-04-17 12:17:24,544 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
+2016-04-17 12:17:24,760 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2016-04-17 12:17:24,950 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2016-04-17 12:17:25,159 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2016-04-17 12:17:25,352 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2016-04-17 12:17:25,570 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.3/maven-embedder-3.3.3-sources.jar
+2016-04-17 12:17:25,786 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.3/maven-embedder-3.3.3-sources.jar
+2016-04-17 12:17:25,989 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2016-04-17 12:17:26,185 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2016-04-17 12:17:26,399 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2016-04-17 12:17:26,613 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2016-04-17 12:17:26,872 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.3/maven-compat-3.3.3-sources.jar
+2016-04-17 12:17:27,327 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.3/maven-compat-3.3.3-sources.jar
+2016-04-17 12:17:27,603 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.9/wagon-provider-api-2.9-sources.jar
+2016-04-17 12:17:27,804 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.9/wagon-provider-api-2.9-sources.jar
+2016-04-17 12:17:28,031 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2016-04-17 12:17:28,269 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2016-04-17 12:17:28,556 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar
+2016-04-17 12:17:30,239 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar
+2016-04-17 12:17:30,640 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:30,854 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:31,072 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:31,262 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:31,475 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.15.0/aether-connector-okhttp-0.15.0-sources.jar
+2016-04-17 12:17:31,665 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.15.0/aether-connector-okhttp-0.15.0-sources.jar
+2016-04-17 12:17:31,907 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.3.0/okhttp-2.3.0-sources.jar
+2016-04-17 12:17:32,123 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.3.0/okhttp-2.3.0-sources.jar
+2016-04-17 12:17:32,340 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.3.0/okio-1.3.0-sources.jar
+2016-04-17 12:17:32,533 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.3.0/okio-1.3.0-sources.jar
+2016-04-17 12:17:32,738 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:32,927 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:33,152 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:33,350 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2016-04-17 12:17:33,553 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.9/wagon-file-2.9-sources.jar
+2016-04-17 12:17:33,751 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.9/wagon-file-2.9-sources.jar
+2016-04-17 12:17:34,031 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2016-04-17 12:17:34,511 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2016-04-17 12:17:34,756 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2016-04-17 12:17:34,949 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2016-04-17 12:18:09,512 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:18:09,513 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 12:18:09,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:18:09,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 12:18:54,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:18:54,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 12:18:54,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:18:54,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 12:19:20,129 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:19:20,129 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 12:19:20,130 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:19:20,130 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 12:27:57,140 [Worker-12] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 12:31:17,199 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,199 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/main/resources
+2016-04-17 12:31:17,202 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,202 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/test/resources
+2016-04-17 12:31:17,624 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,624 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-04-17 12:31:17,626 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,626 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-04-17 12:31:17,717 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,717 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/main/resources
+2016-04-17 12:31:17,719 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,719 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/test/resources
+2016-04-17 12:31:17,873 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,873 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/main/resources
+2016-04-17 12:31:17,874 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:31:17,875 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/test/resources
+2016-04-17 12:34:00,129 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 12:34:37,930 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:34:37,931 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 12:34:37,934 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 12:34:37,934 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 12:34:42,671 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 12:34:47,652 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 12:34:47,657 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-04-17 12:35:30,240 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 12:35:30,241 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install 
+2016-04-17 13:31:59,117 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,125 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 13:31:59,130 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,130 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 13:31:59,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,328 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/main/resources
+2016-04-17 13:31:59,339 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,339 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/foodManagement/src/test/resources
+2016-04-17 13:31:59,594 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,595 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/main/resources
+2016-04-17 13:31:59,602 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,603 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekThree/src/test/resources
+2016-04-17 13:31:59,974 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,975 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/main/resources
+2016-04-17 13:31:59,980 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:31:59,980 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weekone/src/test/resources
+2016-04-17 13:32:00,343 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:32:00,343 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/main/resources
+2016-04-17 13:32:00,352 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 13:32:00,352 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/weektwo/src/test/resources
+2016-04-17 15:01:50,872 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 15:02:45,191 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:02:45,193 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:02:45,196 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:02:45,196 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:03:34,969 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:03:34,970 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:03:34,972 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:03:34,973 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:04:26,933 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:04:26,933 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:04:26,939 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:04:26,939 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:06:10,534 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:06:10,653 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:10,653 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:06:10,654 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:10,654 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:06:12,043 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:12,043 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:06:12,046 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:12,046 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:06:21,737 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:06:21,783 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:21,783 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:06:21,785 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:21,785 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:06:23,080 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:23,081 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:06:23,082 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:06:23,083 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:08:08,281 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:08:11,658 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.10/hibernate-core-5.10.pom
+2016-04-17 15:08:11,660 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.10 is missing, no dependency information available
+2016-04-17 15:08:12,774 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.10/hibernate-core-5.10.jar
+2016-04-17 15:08:12,810 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:08:12,810 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:08:12,813 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:08:12,813 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:09:12,018 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:09:13,357 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0/hibernate-core-5.1.0.pom
+2016-04-17 15:09:13,359 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.1.0 is missing, no dependency information available
+2016-04-17 15:09:13,360 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.1.0 is missing, no dependency information available
+2016-04-17 15:09:14,355 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0/hibernate-core-5.1.0.jar
+2016-04-17 15:09:14,388 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:09:14,388 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:09:14,389 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:09:14,389 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:23:35,525 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.1.0 is missing, no dependency information available
+2016-04-17 15:23:35,540 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:23:35,540 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:23:35,542 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:23:35,542 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:24:51,615 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:24:51,615 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:24:51,617 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:24:51,617 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:24:52,627 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:24:52,627 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:24:52,628 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:24:52,628 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:25:49,103 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:25:49,103 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:25:49,105 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:25:49,106 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:31:13,790 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:31:13,790 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:31:13,792 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:31:13,792 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:32:49,309 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:32:49,309 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:32:49,312 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:32:49,312 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:36:15,156 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:36:16,657 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.3.Final/hibernate-core-4.2.3.Final.pom
+2016-04-17 15:36:16,862 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.3.Final/hibernate-core-4.2.3.Final.pom
+2016-04-17 15:36:17,064 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.pom
+2016-04-17 15:36:17,276 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.pom
+2016-04-17 15:36:17,469 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2016-04-17 15:36:17,795 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2016-04-17 15:36:17,998 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2016-04-17 15:36:18,406 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2016-04-17 15:36:18,735 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2016-04-17 15:36:18,958 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2016-04-17 15:36:19,173 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.pom
+2016-04-17 15:36:19,379 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.pom
+2016-04-17 15:36:19,579 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2016-04-17 15:36:20,010 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2016-04-17 15:36:20,216 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2016-04-17 15:36:20,410 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2016-04-17 15:36:20,613 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2016-04-17 15:36:20,823 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2016-04-17 15:36:21,028 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2016-04-17 15:36:21,221 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2016-04-17 15:36:21,417 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2016-04-17 15:36:21,601 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2016-04-17 15:36:21,790 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2016-04-17 15:36:21,979 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2016-04-17 15:36:22,218 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.3.Final/hibernate-core-4.2.3.Final.jar
+2016-04-17 15:36:32,741 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.3.Final/hibernate-core-4.2.3.Final.jar
+2016-04-17 15:36:32,952 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2016-04-17 15:36:33,588 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2016-04-17 15:36:33,800 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2016-04-17 15:36:34,022 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2016-04-17 15:36:34,207 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2016-04-17 15:36:34,603 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2016-04-17 15:36:34,793 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.jar
+2016-04-17 15:36:35,006 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.jar
+2016-04-17 15:36:35,195 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2016-04-17 15:36:35,405 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2016-04-17 15:36:35,588 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2016-04-17 15:36:35,780 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2016-04-17 15:36:35,972 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2016-04-17 15:36:36,569 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2016-04-17 15:36:36,784 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:36:36,784 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:36:36,786 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:36:36,786 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:36:38,699 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:36:38,699 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:36:38,701 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:36:38,702 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:41:12,502 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:41:12,503 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:41:12,506 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:41:12,506 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:41:46,094 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:41:46,094 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:41:46,095 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:41:46,095 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:42:28,452 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:42:28,452 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:42:28,454 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:42:28,455 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:42:48,629 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:42:48,713 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:42:48,713 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:42:48,715 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:42:48,715 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:42:50,022 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:42:50,022 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:42:50,024 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:42:50,024 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:43:36,723 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:43:38,263 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.3.Final/hibernate-core-5.1.3.Final.pom
+2016-04-17 15:43:38,265 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.1.3.Final is missing, no dependency information available
+2016-04-17 15:43:39,531 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.3.Final/hibernate-core-5.1.3.Final.jar
+2016-04-17 15:43:39,565 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:43:39,565 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:43:39,567 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:43:39,567 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:47:53,313 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 15:47:54,544 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final.pom
+2016-04-17 15:47:54,728 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final.pom
+2016-04-17 15:47:54,912 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2016-04-17 15:47:55,102 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2016-04-17 15:47:55,471 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2016-04-17 15:47:55,669 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2016-04-17 15:47:55,872 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2016-04-17 15:47:56,054 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2016-04-17 15:47:56,245 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2016-04-17 15:47:56,427 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2016-04-17 15:47:56,614 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2016-04-17 15:47:56,796 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2016-04-17 15:47:56,993 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2016-04-17 15:47:57,226 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2016-04-17 15:47:57,463 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2016-04-17 15:47:57,668 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2016-04-17 15:47:57,855 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2016-04-17 15:47:58,040 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2016-04-17 15:47:58,227 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2016-04-17 15:47:58,410 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2016-04-17 15:47:58,598 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-04-17 15:47:58,781 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-04-17 15:47:58,993 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2016-04-17 15:47:59,375 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2016-04-17 15:47:59,566 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-04-17 15:47:59,750 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-04-17 15:47:59,951 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2016-04-17 15:48:00,139 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2016-04-17 15:48:00,339 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2016-04-17 15:48:00,528 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2016-04-17 15:48:00,714 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-04-17 15:48:00,897 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-04-17 15:48:01,089 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final.jar
+2016-04-17 15:48:13,017 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final.jar
+2016-04-17 15:48:13,202 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2016-04-17 15:48:13,429 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2016-04-17 15:48:13,612 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2016-04-17 15:48:13,816 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2016-04-17 15:48:14,029 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar
+2016-04-17 15:48:15,188 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar
+2016-04-17 15:48:15,413 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2016-04-17 15:48:15,609 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2016-04-17 15:48:15,802 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-04-17 15:48:16,221 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-04-17 15:48:16,424 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar
+2016-04-17 15:48:16,624 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar
+2016-04-17 15:48:16,818 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2016-04-17 15:48:17,024 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2016-04-17 15:48:17,223 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2016-04-17 15:48:17,421 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2016-04-17 15:48:17,604 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:48:17,604 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:48:17,606 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:48:17,606 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:48:19,287 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:48:19,287 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:48:19,288 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:48:19,289 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:48:57,670 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:48:57,670 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:48:57,671 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:48:57,671 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:49:11,743 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:49:11,743 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:49:11,746 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:49:11,746 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:49:57,474 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:49:57,474 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:49:57,475 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:49:57,475 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:53:12,622 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:53:12,622 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:53:12,624 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:53:12,624 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:53:25,868 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:53:25,868 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:53:25,870 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:53:25,871 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 15:55:44,223 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:55:44,223 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 15:55:44,225 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 15:55:44,225 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:17:42,222 [Worker-61] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 16:23:53,280 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/target/classes/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:23:59,588 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/target/classes/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:24:03,026 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/target/classes/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:24:36,916 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:24:44,336 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:24:49,606 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:25:40,631 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:25:58,473 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:26:49,875 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:26:55,189 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:26:57,220 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:27:39,857 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 16:32:01,160 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:32:01,160 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:32:01,163 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:32:01,163 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:42:36,590 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:42:36,597 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:42:36,598 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:42:36,598 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:42:45,735 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:42:45,735 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:42:45,738 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:42:45,738 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:44:22,889 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:44:22,890 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:44:22,891 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:44:22,891 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:46:57,651 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:46:57,653 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:46:57,655 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:46:57,655 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:54:28,650 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:54:28,651 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:54:28,652 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:54:28,652 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:56:22,573 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:56:22,573 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:56:22,574 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:56:22,574 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:58:00,274 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:00,275 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:58:00,277 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:00,277 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:58:14,760 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:14,760 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:58:14,761 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:14,761 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:58:43,189 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:43,189 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:58:43,191 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:43,191 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:58:55,462 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:55,462 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:58:55,464 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:58:55,464 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 16:59:14,477 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:59:14,477 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 16:59:14,479 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 16:59:14,479 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:00:21,407 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:00:21,407 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:00:21,409 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:00:21,409 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:00:28,990 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:00:28,990 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:00:28,991 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:00:28,991 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:04:10,992 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:04:10,993 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:04:10,995 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:04:10,995 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:04:27,432 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:04:27,433 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:04:27,436 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:04:27,436 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:04:32,118 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:04:32,118 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:04:32,120 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:04:32,121 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:06:57,970 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:06:57,973 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:06:57,974 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:06:57,974 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:08:17,227 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:08:17,228 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:08:17,229 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:08:17,230 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:08:50,623 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:08:50,623 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:08:50,624 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:08:50,624 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:09:27,008 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:09:27,008 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:09:27,009 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:09:27,010 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:09:53,134 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:09:53,135 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:09:53,136 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:09:53,137 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:16:29,066 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:16:29,073 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:16:29,076 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:16:29,076 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:16:50,450 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:16:50,450 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:16:50,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:16:50,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:16:54,074 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-17 17:17:23,843 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:17:23,844 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:17:23,845 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:17:23,845 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:17:30,000 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:17:30,000 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:17:30,001 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:17:30,001 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:18:06,380 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:18:06,380 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:18:06,382 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:18:06,383 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:19:05,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:19:05,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:19:05,720 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:19:05,720 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:19:27,813 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 17:19:43,073 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 17:20:57,363 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:20:57,363 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:20:57,364 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:20:57,364 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:20:58,385 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:20:58,385 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:20:58,387 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:20:58,387 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:21:10,568 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 17:21:56,097 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:21:56,097 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:21:56,099 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:21:56,099 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:24:53,175 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 17:25:11,179 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:25:11,179 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:25:11,181 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:25:11,181 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:25:52,196 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:25:52,196 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:25:52,197 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:25:52,197 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:26:20,738 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:26:20,738 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:26:20,739 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:26:20,739 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:26:42,608 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:26:42,610 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:26:42,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:26:42,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:27:10,040 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:27:10,040 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:27:10,041 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:27:10,041 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:27:43,386 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:27:43,386 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:27:43,388 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:27:43,388 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:27:57,588 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:27:57,589 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:27:57,593 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:27:57,593 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:28:12,096 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:28:12,096 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:28:12,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:28:12,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:28:39,768 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:28:39,769 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:28:39,770 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:28:39,770 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:28:52,405 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:28:52,406 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:28:52,408 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:28:52,408 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:29:22,667 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:29:22,667 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:29:22,668 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:29:22,668 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:29:29,848 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:29:29,848 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:29:29,849 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:29:29,850 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:44:53,989 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:44:53,990 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:44:53,992 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:44:53,992 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:45:07,143 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:45:07,143 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:45:07,145 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:45:07,145 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:47:16,109 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:47:16,109 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:47:16,110 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:47:16,111 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:48:21,435 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:48:21,435 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:48:21,437 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:48:21,437 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:48:45,171 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:48:45,171 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:48:45,173 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:48:45,173 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 17:52:16,325 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:52:16,326 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 17:52:16,327 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 17:52:16,327 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 18:17:49,049 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 18:17:49,050 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 18:17:49,053 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 18:17:49,053 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 19:11:32,280 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 19:11:34,327 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate/5.1.0.Final/hibernate-5.1.0.Final.pom
+2016-04-17 19:11:34,330 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate:jar:5.1.0.Final is missing, no dependency information available
+2016-04-17 19:11:35,519 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate/5.1.0.Final/hibernate-5.1.0.Final.jar
+2016-04-17 19:11:36,236 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 19:11:36,236 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 19:11:36,239 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 19:11:36,239 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 19:11:48,788 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:QuanLyBanHang:1.0-SNAPSHOT @ /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/pom.xml.
+2016-04-17 19:11:49,044 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 19:11:49,044 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 19:11:49,047 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 19:11:49,047 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 19:11:51,211 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 19:11:51,211 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 19:11:51,213 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 19:11:51,213 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 22:59:19,456 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-17 23:01:40,263 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:01:40,263 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:01:40,265 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:01:40,265 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:09:21,350 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:09:21,350 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:09:21,351 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:09:21,351 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:10:02,400 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:10:02,400 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:10:02,403 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:10:02,403 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:20:15,337 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-17 23:20:23,493 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang
+2016-04-17 23:20:23,493 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-04-17 23:29:02,640 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:02,641 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:29:02,642 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:02,642 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:29:03,710 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:03,710 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:29:03,711 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:03,711 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:29:39,072 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:39,072 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:29:39,074 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:39,074 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:29:40,089 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:40,089 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:29:40,090 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:29:40,090 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:31:23,718 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:31:23,718 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:31:23,720 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:31:23,720 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:33:54,742 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:33:54,742 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:33:54,744 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:33:54,744 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:34:57,056 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:34:57,057 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:34:57,058 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:34:57,058 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:36:21,364 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:36:21,364 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:36:21,367 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:36:21,367 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:36:25,075 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:36:25,075 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:36:25,076 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:36:25,076 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:38:38,475 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:38:38,475 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:38:38,480 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:38:38,480 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:38:43,158 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:38:43,158 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:38:43,160 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:38:43,160 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:45:35,774 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:45:35,775 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:45:35,776 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:45:35,776 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:45:54,704 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:45:54,704 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:45:54,705 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:45:54,705 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:46:02,929 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final-sources.jar
+2016-04-17 23:46:06,358 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.1.0.Final/hibernate-core-5.1.0.Final-sources.jar
+2016-04-17 23:46:06,384 [Worker-56] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.1.0.Final
+2016-04-17 23:46:06,530 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:46:06,530 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:46:06,531 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:46:06,531 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:46:21,797 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:46:21,798 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:46:21,800 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:46:21,800 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-17 23:47:29,051 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:47:29,051 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-17 23:47:29,054 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-17 23:47:29,054 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:36:37,051 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:36:37,052 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:36:37,055 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:36:37,056 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:36:58,583 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:36:58,583 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:36:58,584 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:36:58,585 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:36:59,608 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:36:59,608 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:36:59,610 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:36:59,610 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:39:45,587 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:39:45,588 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:39:45,589 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:39:45,589 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:41:18,140 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:41:18,140 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:41:18,146 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:41:18,147 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:42:45,942 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:42:45,943 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:42:45,951 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:42:45,952 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:43:01,608 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:43:01,609 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:43:01,612 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:43:01,613 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:43:20,091 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:43:20,091 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:43:20,096 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:43:20,097 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:44:20,405 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:44:20,405 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:44:20,409 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:44:20,409 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:46:20,323 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:46:20,324 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:46:20,327 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:46:20,328 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:47:20,003 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:47:20,003 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:47:20,007 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:47:20,008 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:47:31,780 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:47:31,780 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:47:31,784 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:47:31,784 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:47:38,137 [main] ERROR org.hibernate.util.xpl.XMLHelper - Error parsing XML: /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/java/hibernate/hibernate.cfg.xml(1) The processing instruction target matching "[xX][mM][lL]" is not allowed.
+2016-04-18 09:47:52,569 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:47:52,570 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:47:52,574 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:47:52,575 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:50:05,491 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:50:05,491 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:50:05,492 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:50:05,493 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:52:30,123 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:52:30,123 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:52:30,124 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:52:30,124 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:53:50,104 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:53:50,104 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:53:50,105 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:53:50,105 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 09:53:54,921 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:53:54,922 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 09:53:54,923 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 09:53:54,923 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 10:36:57,653 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:36:57,654 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 10:36:57,655 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:36:57,655 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 10:43:14,470 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:43:14,470 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 10:43:14,471 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:43:14,471 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 10:52:54,940 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:52:54,940 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 10:52:54,941 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:52:54,941 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 10:57:33,193 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:57:33,193 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 10:57:33,195 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:57:33,195 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 10:58:20,503 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:58:20,503 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 10:58:20,504 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 10:58:20,504 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:37:14,267 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:37:14,272 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:37:14,273 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:37:14,273 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:37:29,999 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:37:29,999 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:37:30,000 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:37:30,000 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:37:52,176 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:37:52,176 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:37:52,177 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:37:52,177 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:38:14,172 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:38:14,172 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:38:14,173 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:38:14,173 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:45:57,752 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:45:57,752 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:45:57,753 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:45:57,754 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:46:03,595 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:46:03,595 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:46:03,596 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:46:03,596 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:46:27,722 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:46:27,722 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:46:27,723 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:46:27,723 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:48:48,057 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:48:48,057 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:48:48,060 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:48:48,060 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:48:55,714 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:48:55,714 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:48:55,716 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:48:55,716 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources
+2016-04-18 11:49:10,757 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:49:10,757 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/main/resources
+2016-04-18 11:49:10,758 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-18 11:49:10,758 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/nguyenngocbinh/Documents/NgocBinh/Data/HCMUS/Hoan chinh/HK02/Lap Trinh JAVA/Project/BaiTapTuan02/QuanLyBanHang/src/test/resources

@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package pojo;
+
+/**
+ * @author nguyenngocbinh
+ *
+ */
+public class Staff extends PojoBase {
+
+	/**
+	 * 
+	 */
+	public Staff() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

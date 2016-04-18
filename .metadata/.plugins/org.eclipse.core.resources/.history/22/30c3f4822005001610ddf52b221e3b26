@@ -1,0 +1,18 @@
+package pojo;
+
+import java.util.Date;
+
+public class User extends PojoBase {
+	private String fullName;
+	private String email;
+	private String password;
+	private String image;
+	private Boolean sex = true; //true: man | false: women
+	private Date birthday; 
+	private UserType userType;
+	private UserStatus userStatus;
+	public User() { 
+		// TODO Auto-generated constructor stub
+	}
+
+}

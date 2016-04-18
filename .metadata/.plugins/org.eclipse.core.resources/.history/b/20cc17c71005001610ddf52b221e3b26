@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package pojo;
+
+import java.sql.Date;
+
+/**
+ * @author nguyenngocbinh
+ *
+ */
+public class Staff extends PojoBase { 
+	private String image;
+	private Boolean sex = true; // : man | false: women
+	private Date birthday date, 
+	startWorking date,
+	baseSalary int,
+	note text,
+	id_staffType int not null references STAFFTYPE(id),  
+	id_workingStatus int not null references WORKINGSTATUS(id)
+	/**
+	 * 
+	 */
+	public Staff() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

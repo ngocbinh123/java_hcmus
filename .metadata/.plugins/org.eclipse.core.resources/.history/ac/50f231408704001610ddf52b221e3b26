@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Apr 17, 2016 5:19:05 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <joined-subclass name="pojo.food" extends="pojo.PojoBase" table="FOOD" lazy="false">
+        <key>
+            <column name="ID" />
+        </key>
+        <property name="image" type="java.lang.String">
+            <column name="IMAGE" />
+        </property>
+        <property name="price" type="float">
+            <column name="PRICE" />
+        </property>
+        <property name="status" type="java.lang.Boolean">
+            <column name="STATUS" />
+        </property>
+        <property name="id_foodType" type="int">
+            <column name="ID_FOODTYPE" />
+        </property>
+        <property name="number" type="int">
+            <column name="NUMBER" />
+        </property>
+        <property name="note" type="java.lang.String">
+            <column name="NOTE" />
+        </property>
+    </joined-subclass>
+</hibernate-mapping>

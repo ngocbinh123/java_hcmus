@@ -1,0 +1,9 @@
+package pojo;
+
+import java.io.Serializable;
+
+public class PojoBase implements Serializable{
+	private int id; 
+	private String name;
+	
+}

@@ -1,0 +1,10 @@
+package pojo;
+
+public class WorkingTime extends PojoBase {
+	private int startHour; 
+	private int endHour;
+	public WorkingTime() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

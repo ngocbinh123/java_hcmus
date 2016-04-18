@@ -1,0 +1,10 @@
+package pojo;
+
+public class food extends PojoBase{
+	private String image;
+	private int id_foodType;  
+	private int number;
+	private float price;
+	private Boolean status;
+	private String note;
+}

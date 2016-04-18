@@ -1,0 +1,9 @@
+package pojo;
+
+public class User extends PojoBase {
+
+	public User() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

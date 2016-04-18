@@ -1,0 +1,9 @@
+package pojo;
+
+public class WorkingTime extends PojoBase {
+
+	public WorkingTime() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
